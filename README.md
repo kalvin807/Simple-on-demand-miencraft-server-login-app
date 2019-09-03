@@ -1,6 +1,8 @@
 # Simple on-demand Minecraft server
 The idea is to minimize the server uptime with no player to save computer resources and cost. It uses Python Flask as the backend to communicate with Amazon AWS for instance operation. Once the instance is online, start an SSH channel to run the preloaded shell script to start the actual Minecraft server. While the front-end provides a simple login interface for the user to start the server by inputting the correct password.
 
+Result of the app: https://kal-mcserver-login.herokuapp.com/
+
 Inspired by this Github: https://github.com/trevor-laher/OnDemandMinecraft
 
 # Target User
