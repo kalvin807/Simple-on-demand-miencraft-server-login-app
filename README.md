@@ -4,9 +4,9 @@ The idea is to minimize the server uptime with no player to save computer resour
 Inspired by this Github: https://github.com/trevor-laher/OnDemandMinecraft
 
 # Target User
-Small-Medium Minecraft community.
-Usually, play on the server in a specific timeslot.
-Want to minimize the server renting cost.
+- Small-Medium Minecraft community.
+- Usually, play on the server in a specific timeslot.
+- Want to minimize the server renting cost.
 
 # Requirement
 Some knowledge of python and shell script.
